@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Daily Service Review">5c974c47db175700fdd6f4eabf9619a4</sc_cat_item>
+        <sc_category display_value="Store Services">ea17cc47db175700fdd6f4eabf961928</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-18 20:03:54</sys_created_on>
+        <sys_id>ec97c087db175700fdd6f4eabf9619cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Store Services.Daily Service Review</sys_name>
+        <sys_package display_value="Floor Care Service" source="x_snc_floor_care_s">865aa2a6db971700fdd6f4eabf961908</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Floor Care Service">865aa2a6db971700fdd6f4eabf961908</sys_scope>
+        <sys_update_name>sc_cat_item_category_ec97c087db175700fdd6f4eabf9619cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-18 20:03:54</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="service_rating" table="x_snc_floor_care_s_daily_service_review" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1 - Poor</label>
+            <language>en</language>
+            <name>x_snc_floor_care_s_daily_service_review</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-17 18:58:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d50f66eadb971700fdd6f4eabf96197a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 18:59:34</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2 - Satisfactory</label>
+            <language>en</language>
+            <name>x_snc_floor_care_s_daily_service_review</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-17 18:58:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>990f66eadb971700fdd6f4eabf96197c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 18:59:34</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3 - Good</label>
+            <language>en</language>
+            <name>x_snc_floor_care_s_daily_service_review</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-17 18:58:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>590f66eadb971700fdd6f4eabf96197e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 18:59:34</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4 - Very Good</label>
+            <language>en</language>
+            <name>x_snc_floor_care_s_daily_service_review</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 18:26:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>79413bf6dbd35700fdd6f4eabf9619f1</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 18:59:34</sys_updated_on>
+            <value>4 - Very Good</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>service_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5 - Excellent</label>
+            <language>en</language>
+            <name>x_snc_floor_care_s_daily_service_review</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 18:26:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>39413bf6dbd35700fdd6f4eabf9619f3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 18:59:34</sys_updated_on>
+            <value>5 - Excellent</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>service_rating</element>
+            <name>x_snc_floor_care_s_daily_service_review</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-17 18:58:32</sys_created_on>
+            <sys_id>550f66eadb971700fdd6f4eabf96197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>service_rating</sys_name>
+            <sys_package display_value="Floor Care Service" source="x_snc_floor_care_s">865aa2a6db971700fdd6f4eabf961908</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Floor Care Service">865aa2a6db971700fdd6f4eabf961908</sys_scope>
+            <sys_update_name>sys_choice_x_snc_floor_care_s_daily_service_review_service_rating</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-17 18:58:32</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
