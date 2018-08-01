@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <misc>0</misc>
+        <order>2</order>
+        <question display_value="Service Rating">50894ea84f27d7005ad14b8d0210c79f</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>john.varghese</sys_created_by>
+        <sys_created_on>2018-07-23 21:22:30</sys_created_on>
+        <sys_id>98894ea84f27d7005ad14b8d0210c7a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2 - Satisfactory</sys_name>
+        <sys_package display_value="TJX Store Operations" source="x_snc_floor_care_s">865aa2a6db971700fdd6f4eabf961908</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TJX Store Operations">865aa2a6db971700fdd6f4eabf961908</sys_scope>
+        <sys_update_name>question_choice_98894ea84f27d7005ad14b8d0210c7a8</sys_update_name>
+        <sys_updated_by>john.varghese</sys_updated_by>
+        <sys_updated_on>2018-07-23 21:22:30</sys_updated_on>
+        <text>2 - Satisfactory</text>
+        <value>2</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=98894ea84f27d7005ad14b8d0210c7a8"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>98894ea84f27d7005ad14b8d0210c7a8</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>john.varghese</sys_created_by>
+        <sys_created_on>2018-07-23 21:22:30</sys_created_on>
+        <sys_id>1c894ea84f27d7005ad14b8d0210c7a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>john.varghese</sys_updated_by>
+        <sys_updated_on>2018-07-23 21:22:30</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>98894ea84f27d7005ad14b8d0210c7a8</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>john.varghese</sys_created_by>
+        <sys_created_on>2018-07-23 21:22:30</sys_created_on>
+        <sys_id>d0894ea84f27d7005ad14b8d0210c7a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>john.varghese</sys_updated_by>
+        <sys_updated_on>2018-07-23 21:22:30</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

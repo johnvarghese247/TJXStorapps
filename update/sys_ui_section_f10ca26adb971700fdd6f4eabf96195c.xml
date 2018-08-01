@@ -4,126 +4,112 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number</element>
             <position>0</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-19 17:10:26</sys_created_on>
-            <sys_id>d579e81fdbdf5700fdd6f4eabf96196c</sys_id>
+            <sys_created_by>john.varghese</sys_created_by>
+            <sys_created_on>2018-07-23 20:44:31</sys_created_on>
+            <sys_id>84d08eac4fe3d7005ad14b8d0210c7e1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_floor_care_s_daily_service_review" sys_domain="global" view="Default view">f10ca26adb971700fdd6f4eabf96195c</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-19 17:10:26</sys_updated_on>
+            <sys_updated_by>john.varghese</sys_updated_by>
+            <sys_updated_on>2018-07-23 20:44:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>1</position>
+            <sys_created_by>john.varghese</sys_created_by>
+            <sys_created_on>2018-07-23 20:44:31</sys_created_on>
+            <sys_id>0cd08eac4fe3d7005ad14b8d0210c7e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_floor_care_s_daily_service_review" sys_domain="global" view="Default view">f10ca26adb971700fdd6f4eabf96195c</sys_ui_section>
+            <sys_updated_by>john.varghese</sys_updated_by>
+            <sys_updated_on>2018-07-23 20:44:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_choice_20</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-19 17:10:26</sys_created_on>
-            <sys_id>5d79e81fdbdf5700fdd6f4eabf96196c</sys_id>
+            <position>2</position>
+            <sys_created_by>john.varghese</sys_created_by>
+            <sys_created_on>2018-07-23 20:44:31</sys_created_on>
+            <sys_id>8cd08eac4fe3d7005ad14b8d0210c7e1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_floor_care_s_daily_service_review" sys_domain="global" view="Default view">f10ca26adb971700fdd6f4eabf96195c</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-19 17:10:26</sys_updated_on>
+            <sys_updated_by>john.varghese</sys_updated_by>
+            <sys_updated_on>2018-07-23 20:44:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_choice_15</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-19 17:10:26</sys_created_on>
-            <sys_id>dd79e81fdbdf5700fdd6f4eabf96196c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_floor_care_s_daily_service_review" sys_domain="global" view="Default view">f10ca26adb971700fdd6f4eabf96195c</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-19 17:10:26</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_choice_6</element>
             <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-19 17:10:26</sys_created_on>
-            <sys_id>5179e81fdbdf5700fdd6f4eabf96196d</sys_id>
+            <sys_created_by>john.varghese</sys_created_by>
+            <sys_created_on>2018-07-23 20:44:31</sys_created_on>
+            <sys_id>00d08eac4fe3d7005ad14b8d0210c7e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_floor_care_s_daily_service_review" sys_domain="global" view="Default view">f10ca26adb971700fdd6f4eabf96195c</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-19 17:10:26</sys_updated_on>
+            <sys_updated_by>john.varghese</sys_updated_by>
+            <sys_updated_on>2018-07-23 20:44:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
             <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-19 17:10:26</sys_created_on>
-            <sys_id>d179e81fdbdf5700fdd6f4eabf96196d</sys_id>
+            <sys_created_by>john.varghese</sys_created_by>
+            <sys_created_on>2018-07-23 20:44:31</sys_created_on>
+            <sys_id>80d08eac4fe3d7005ad14b8d0210c7e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_floor_care_s_daily_service_review" sys_domain="global" view="Default view">f10ca26adb971700fdd6f4eabf96195c</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-19 17:10:26</sys_updated_on>
+            <sys_updated_by>john.varghese</sys_updated_by>
+            <sys_updated_on>2018-07-23 20:44:31</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>priority</element>
+            <element>u_choice_6</element>
             <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-19 17:10:26</sys_created_on>
-            <sys_id>5579e81fdbdf5700fdd6f4eabf96196d</sys_id>
+            <sys_created_by>john.varghese</sys_created_by>
+            <sys_created_on>2018-07-23 20:44:31</sys_created_on>
+            <sys_id>04d08eac4fe3d7005ad14b8d0210c7e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_floor_care_s_daily_service_review" sys_domain="global" view="Default view">f10ca26adb971700fdd6f4eabf96195c</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-19 17:10:26</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>state</element>
-            <position>6</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-19 17:10:26</sys_created_on>
-            <sys_id>d579e81fdbdf5700fdd6f4eabf96196d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_floor_care_s_daily_service_review" sys_domain="global" view="Default view">f10ca26adb971700fdd6f4eabf96195c</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-19 17:10:26</sys_updated_on>
+            <sys_updated_by>john.varghese</sys_updated_by>
+            <sys_updated_on>2018-07-23 20:44:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_glide_list_7</element>
-            <position>7</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-19 17:10:26</sys_created_on>
-            <sys_id>5979e81fdbdf5700fdd6f4eabf96196d</sys_id>
+            <position>6</position>
+            <sys_created_by>john.varghese</sys_created_by>
+            <sys_created_on>2018-07-23 20:44:31</sys_created_on>
+            <sys_id>84d08eac4fe3d7005ad14b8d0210c7e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_floor_care_s_daily_service_review" sys_domain="global" view="Default view">f10ca26adb971700fdd6f4eabf96195c</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-19 17:10:26</sys_updated_on>
+            <sys_updated_by>john.varghese</sys_updated_by>
+            <sys_updated_on>2018-07-23 20:44:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>vendor_name</element>
-            <position>8</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-07-19 17:18:12</sys_created_on>
-            <sys_id>433ba09fdbdf5700fdd6f4eabf961939</sys_id>
+            <element>priority</element>
+            <position>7</position>
+            <sys_created_by>john.varghese</sys_created_by>
+            <sys_created_on>2018-07-23 20:44:31</sys_created_on>
+            <sys_id>08d08eac4fe3d7005ad14b8d0210c7e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_floor_care_s_daily_service_review" sys_domain="global" view="Default view">f10ca26adb971700fdd6f4eabf96195c</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-19 17:18:12</sys_updated_on>
+            <sys_updated_by>john.varghese</sys_updated_by>
+            <sys_updated_on>2018-07-23 20:44:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -141,9 +127,9 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_snc_floor_care_s_daily_service_review</sys_name>
             <sys_overrides/>
-            <sys_package display_value="Floor Care Service" source="x_snc_floor_care_s">865aa2a6db971700fdd6f4eabf961908</sys_package>
+            <sys_package display_value="TJX Store Operations" source="x_snc_floor_care_s">865aa2a6db971700fdd6f4eabf961908</sys_package>
             <sys_policy/>
-            <sys_scope display_value="Floor Care Service">865aa2a6db971700fdd6f4eabf961908</sys_scope>
+            <sys_scope display_value="TJX Store Operations">865aa2a6db971700fdd6f4eabf961908</sys_scope>
             <sys_update_name>sys_ui_section_f10ca26adb971700fdd6f4eabf96195c</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-07-17 18:45:28</sys_updated_on>

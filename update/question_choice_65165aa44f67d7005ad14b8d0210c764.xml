@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <misc>0</misc>
+        <order>2</order>
+        <question display_value="Did they sanitize the restrooms? (NEED TO INCLUDE POP-UP FOR INFO)">d1165aa44f67d7005ad14b8d0210c74d</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>john.varghese</sys_created_by>
+        <sys_created_on>2018-07-23 22:17:27</sys_created_on>
+        <sys_id>65165aa44f67d7005ad14b8d0210c764</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>No</sys_name>
+        <sys_package display_value="TJX Store Operations" source="x_snc_floor_care_s">865aa2a6db971700fdd6f4eabf961908</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TJX Store Operations">865aa2a6db971700fdd6f4eabf961908</sys_scope>
+        <sys_update_name>question_choice_65165aa44f67d7005ad14b8d0210c764</sys_update_name>
+        <sys_updated_by>john.varghese</sys_updated_by>
+        <sys_updated_on>2018-07-23 22:17:27</sys_updated_on>
+        <text>No</text>
+        <value>no</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=65165aa44f67d7005ad14b8d0210c764"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>65165aa44f67d7005ad14b8d0210c764</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>john.varghese</sys_created_by>
+        <sys_created_on>2018-07-23 22:17:27</sys_created_on>
+        <sys_id>a5165aa44f67d7005ad14b8d0210c765</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>john.varghese</sys_updated_by>
+        <sys_updated_on>2018-07-23 22:17:27</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>65165aa44f67d7005ad14b8d0210c764</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>john.varghese</sys_created_by>
+        <sys_created_on>2018-07-23 22:17:27</sys_created_on>
+        <sys_id>6d165aa44f67d7005ad14b8d0210c764</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>john.varghese</sys_updated_by>
+        <sys_updated_on>2018-07-23 22:17:27</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

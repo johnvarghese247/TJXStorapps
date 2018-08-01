@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_producer">
+    <sc_cat_item_producer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <availability>on_both</availability>
+        <billable>false</billable>
+        <can_cancel>false</can_cancel>
+        <category display_value="Store Operations">9ab6d2e44f67d7005ad14b8d0210c76a</category>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <entitlement_script/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <list_price>0</list_price>
+        <location/>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Daily Service Review</name>
+        <no_cart>false</no_cart>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_search>false</no_search>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=93bf03a84f2bd7005ad14b8d0210c757&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <redirect_url>generated_record</redirect_url>
+        <roles/>
+        <sc_catalogs>65bcd377c3011200b12d9f2974d3aea0</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <script/>
+        <short_description>Feedback form to Home Office and floor care vendor on daily floor care program</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item_producer</sys_class_name>
+        <sys_created_by>john.varghese</sys_created_by>
+        <sys_created_on>2018-07-24 02:29:21</sys_created_on>
+        <sys_id>93bf03a84f2bd7005ad14b8d0210c757</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Daily Service Review</sys_name>
+        <sys_package display_value="TJX Store Operations" source="x_snc_floor_care_s">865aa2a6db971700fdd6f4eabf961908</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TJX Store Operations">865aa2a6db971700fdd6f4eabf961908</sys_scope>
+        <sys_update_name>sc_cat_item_producer_93bf03a84f2bd7005ad14b8d0210c757</sys_update_name>
+        <sys_updated_by>john.varghese</sys_updated_by>
+        <sys_updated_on>2018-07-24 02:33:44</sys_updated_on>
+        <table_name>x_snc_floor_care_s_daily_service_review</table_name>
+        <template/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <view/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_producer>
+    <sys_translated_text action="delete_multiple" query="documentkey=93bf03a84f2bd7005ad14b8d0210c757"/>
+    <fx_price action="delete_multiple" query="id=93bf03a84f2bd7005ad14b8d0210c757"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>93bf03a84f2bd7005ad14b8d0210c757</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>john.varghese</sys_created_by>
+        <sys_created_on>2018-07-24 02:29:21</sys_created_on>
+        <sys_id>dbbf03a84f2bd7005ad14b8d0210c75a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>john.varghese</sys_updated_by>
+        <sys_updated_on>2018-07-24 02:29:21</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>93bf03a84f2bd7005ad14b8d0210c757</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>john.varghese</sys_created_by>
+        <sys_created_on>2018-07-24 02:29:21</sys_created_on>
+        <sys_id>5bbf03a84f2bd7005ad14b8d0210c75b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>john.varghese</sys_updated_by>
+        <sys_updated_on>2018-07-24 02:29:21</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

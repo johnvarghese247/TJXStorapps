@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
-    <element label="Delivery Acknowledgement" max_length="40" name="x_snc_floor_care_s_delivery_acknowledgement" type="collection"/>
-</database>

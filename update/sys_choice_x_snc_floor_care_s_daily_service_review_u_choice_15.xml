@@ -6,6 +6,25 @@
             <element>u_choice_15</element>
             <hint/>
             <inactive>false</inactive>
+            <label>1 - Unsatisfactory</label>
+            <language>en</language>
+            <name>x_snc_floor_care_s_daily_service_review</name>
+            <sequence>0</sequence>
+            <sys_created_by>john.varghese</sys_created_by>
+            <sys_created_on>2018-07-23 14:41:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e3bd6c2c4faf97005ad14b8d0210c745</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>john.varghese</sys_updated_by>
+            <sys_updated_on>2018-07-23 14:41:35</sys_updated_on>
+            <value>1 - unsatisfactory</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_15</element>
+            <hint/>
+            <inactive>true</inactive>
             <label>Unsatisfactory</label>
             <language>en</language>
             <name>x_snc_floor_care_s_daily_service_review</name>
@@ -15,9 +34,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>9ba1c083db175700fdd6f4eabf961931</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-18 19:38:09</sys_updated_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>john.varghese</sys_updated_by>
+            <sys_updated_on>2018-07-23 14:41:35</sys_updated_on>
             <value>unsatisfactory</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -25,6 +44,25 @@
             <element>u_choice_15</element>
             <hint/>
             <inactive>false</inactive>
+            <label>2 - Needs Improvement</label>
+            <language>en</language>
+            <name>x_snc_floor_care_s_daily_service_review</name>
+            <sequence>1</sequence>
+            <sys_created_by>john.varghese</sys_created_by>
+            <sys_created_on>2018-07-23 14:41:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3bd6c2c4faf97005ad14b8d0210c747</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>john.varghese</sys_updated_by>
+            <sys_updated_on>2018-07-23 14:41:35</sys_updated_on>
+            <value>2 - needs improvement</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_15</element>
+            <hint/>
+            <inactive>true</inactive>
             <label>Needs Improvement</label>
             <language>en</language>
             <name>x_snc_floor_care_s_daily_service_review</name>
@@ -34,9 +72,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>1fa1c083db175700fdd6f4eabf961933</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-18 19:38:09</sys_updated_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>john.varghese</sys_updated_by>
+            <sys_updated_on>2018-07-23 14:41:35</sys_updated_on>
             <value>needs improvement</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -44,6 +82,25 @@
             <element>u_choice_15</element>
             <hint/>
             <inactive>false</inactive>
+            <label>3 - Good</label>
+            <language>en</language>
+            <name>x_snc_floor_care_s_daily_service_review</name>
+            <sequence>2</sequence>
+            <sys_created_by>john.varghese</sys_created_by>
+            <sys_created_on>2018-07-23 14:41:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>63bd6c2c4faf97005ad14b8d0210c749</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>john.varghese</sys_updated_by>
+            <sys_updated_on>2018-07-23 14:41:35</sys_updated_on>
+            <value>3 - good</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_15</element>
+            <hint/>
+            <inactive>true</inactive>
             <label>Good</label>
             <language>en</language>
             <name>x_snc_floor_care_s_daily_service_review</name>
@@ -53,9 +110,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>dba1c083db175700fdd6f4eabf961935</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-18 19:38:09</sys_updated_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>john.varghese</sys_updated_by>
+            <sys_updated_on>2018-07-23 14:41:35</sys_updated_on>
             <value>good</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -63,6 +120,25 @@
             <element>u_choice_15</element>
             <hint/>
             <inactive>false</inactive>
+            <label>4 - Very Good</label>
+            <language>en</language>
+            <name>x_snc_floor_care_s_daily_service_review</name>
+            <sequence>3</sequence>
+            <sys_created_by>john.varghese</sys_created_by>
+            <sys_created_on>2018-07-23 14:41:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>23bd6c2c4faf97005ad14b8d0210c74b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>john.varghese</sys_updated_by>
+            <sys_updated_on>2018-07-23 14:41:35</sys_updated_on>
+            <value>4 - very good</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_15</element>
+            <hint/>
+            <inactive>true</inactive>
             <label>Very Good</label>
             <language>en</language>
             <name>x_snc_floor_care_s_daily_service_review</name>
@@ -72,9 +148,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>9ba1c083db175700fdd6f4eabf961937</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-18 19:38:09</sys_updated_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>john.varghese</sys_updated_by>
+            <sys_updated_on>2018-07-23 14:41:35</sys_updated_on>
             <value>very good</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -82,6 +158,25 @@
             <element>u_choice_15</element>
             <hint/>
             <inactive>false</inactive>
+            <label>5 - Outstanding</label>
+            <language>en</language>
+            <name>x_snc_floor_care_s_daily_service_review</name>
+            <sequence>4</sequence>
+            <sys_created_by>john.varghese</sys_created_by>
+            <sys_created_on>2018-07-23 14:41:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ffbd6c2c4faf97005ad14b8d0210c74c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>john.varghese</sys_updated_by>
+            <sys_updated_on>2018-07-23 14:41:35</sys_updated_on>
+            <value>5 - outstanding</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_15</element>
+            <hint/>
+            <inactive>true</inactive>
             <label>Outstanding</label>
             <language>en</language>
             <name>x_snc_floor_care_s_daily_service_review</name>
@@ -91,9 +186,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>5ba1c083db175700fdd6f4eabf961939</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-07-18 19:38:09</sys_updated_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>john.varghese</sys_updated_by>
+            <sys_updated_on>2018-07-23 14:41:35</sys_updated_on>
             <value>outstanding</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
@@ -102,12 +197,12 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-07-18 19:38:09</sys_created_on>
-            <sys_id>d7a1c083db175700fdd6f4eabf961933</sys_id>
+            <sys_id>3c77385f4f1b93005ad14b8d0210c72b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>u_choice_15</sys_name>
-            <sys_package display_value="Floor Care Service" source="x_snc_floor_care_s">865aa2a6db971700fdd6f4eabf961908</sys_package>
+            <sys_package display_value="TJX Store Operations" source="x_snc_floor_care_s">865aa2a6db971700fdd6f4eabf961908</sys_package>
             <sys_policy/>
-            <sys_scope display_value="Floor Care Service">865aa2a6db971700fdd6f4eabf961908</sys_scope>
+            <sys_scope display_value="TJX Store Operations">865aa2a6db971700fdd6f4eabf961908</sys_scope>
             <sys_update_name>sys_choice_x_snc_floor_care_s_daily_service_review_u_choice_15</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-07-18 19:38:09</sys_updated_on>

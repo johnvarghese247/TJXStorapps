@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Daily Service Review" max_length="40" name="x_snc_floor_care_s_daily_service_review" sizeclass="5" type="collection">
+    <element extends="task" label="Daily Service Review" max_length="40" name="x_snc_floor_care_s_daily_service_review" sizeclass="21" type="collection">
         <element label="Manager" max_length="32" name="manager" reference="sys_user" type="reference"/>
         <element label="No Show?" max_length="40" name="no_show" type="boolean"/>
         <element choice="1" label="Service Rating" max_length="40" name="service_rating" type="choice">
@@ -16,13 +16,13 @@
         <element label="Did they mop?" max_length="40" name="u_boolean_12" type="boolean"/>
         <element label="Was buffing completed?" max_length="40" name="u_boolean_13" type="boolean"/>
         <element label="Were the restrooms sanitized? (NEED TO CREATE INFO POP-UP)" max_length="40" name="u_boolean_14" type="boolean"/>
-        <element attributes="edge_encryption_enabled=true" choice="3" default="unsatisfactory" dependent="u_choice_20" dependent_on_field="u_choice_20" label="Please rate the quality of the total service" mandatory="true" max_length="40" name="u_choice_15" type="string" use_dependent_field="true">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="1 - unsatisfactory" label="Please rate the quality of the total service" mandatory="true" max_length="40" name="u_choice_15" type="string" use_dependent_field="true">
             <choice>
-                <element label="Unsatisfactory" sequence="0" value="unsatisfactory"/>
-                <element label="Needs Improvement" sequence="1" value="needs improvement"/>
-                <element label="Good" sequence="2" value="good"/>
-                <element label="Very Good" sequence="3" value="very good"/>
-                <element label="Outstanding" sequence="4" value="outstanding"/>
+                <element label="1 - Unsatisfactory" sequence="0" value="1 - unsatisfactory"/>
+                <element label="2 - Needs Improvement" sequence="1" value="2 - needs improvement"/>
+                <element label="3 - Good" sequence="2" value="3 - good"/>
+                <element label="4 - Very Good" sequence="3" value="4 - very good"/>
+                <element label="5 - Outstanding" sequence="4" value="5 - outstanding"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" default="yes" label="Did they mop?" max_length="40" name="u_choice_16" type="string" use_dependent_field="true">
@@ -57,9 +57,9 @@
         </element>
         <element attributes="edge_encryption_enabled=true" choice="3" default="7 Day" label="Program" max_length="40" name="u_choice_4" type="string">
             <choice>
-                <element label="Choice 1" sequence="0" value="7 Day"/>
-                <element label="Choice 2" sequence="1" value="3 Day"/>
-                <element label="Choice 3" sequence="2" value="1 Day"/>
+                <element label="7 Day" sequence="0" value="7 Day"/>
+                <element label="3 Day" sequence="1" value="3 Day"/>
+                <element label="1 Day" sequence="2" value="1 Day"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Chain" max_length="40" name="u_choice_6" type="string">
@@ -75,6 +75,8 @@
         <element label="Time Arrived" max_length="40" name="u_glide_time_8" type="glide_time"/>
         <element label="Time Departed" max_length="40" name="u_glide_time_9" type="glide_time"/>
         <element label="Number of People" max_length="40" name="u_integer_10" type="integer"/>
+        <element label="A copy will be sent to building services department" max_length="40" name="u_longint_1" type="longint"/>
+        <element attributes="edge_encryption_enabled=true" default="A copy will be sent to building services department" label="New String" max_length="40" name="u_string_2" read_only="true" type="string"/>
         <element label="Vendor Name" max_length="32" name="vendor_name" reference="core_company" type="reference"/>
     </element>
 </database>

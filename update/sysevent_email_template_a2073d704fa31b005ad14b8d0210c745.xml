@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>x_snc_floor_care_s_daily_service_review</collection>
+        <email_layout/>
+        <message/>
+        <message_html><![CDATA[<p>Dear&nbsp;<strong>Vendor Name(company): ${company}</strong></p>
+<p>&nbsp;</p>
+<p>You recieved a poor rating for your services at&nbsp;<strong>Chain: ${u_choice_6}&nbsp;</strong>on&nbsp;<strong>Date of Service: ${u_glide_date_time_5}</strong></p>
+<p>&nbsp;</p>
+<p>Please contact the Store Manager,&nbsp;<strong>Manager(assigned_to): ${assigned_to}&nbsp;</strong>within the next 24 hours to reschedule.</p>
+<p>&nbsp;</p>
+<p>Signed,</p>
+<p>TJX Building Services</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Vendor Poor Rating</name>
+        <sms_alternate/>
+        <subject>ATTENTION NEEDED: You recieved a poor rating</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>john.varghese</sys_created_by>
+        <sys_created_on>2018-07-24 14:43:58</sys_created_on>
+        <sys_id>a2073d704fa31b005ad14b8d0210c745</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vendor Poor Rating</sys_name>
+        <sys_package display_value="TJX Store Operations" source="x_snc_floor_care_s">865aa2a6db971700fdd6f4eabf961908</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TJX Store Operations">865aa2a6db971700fdd6f4eabf961908</sys_scope>
+        <sys_update_name>sysevent_email_template_a2073d704fa31b005ad14b8d0210c745</sys_update_name>
+        <sys_updated_by>john.varghese</sys_updated_by>
+        <sys_updated_on>2018-07-24 14:43:58</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+</record_update>

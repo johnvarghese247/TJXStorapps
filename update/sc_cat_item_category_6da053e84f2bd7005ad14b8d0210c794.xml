@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Daily Service Review">93bf03a84f2bd7005ad14b8d0210c757</sc_cat_item>
+        <sc_category display_value="Store Operations">9ab6d2e44f67d7005ad14b8d0210c76a</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>john.varghese</sys_created_by>
+        <sys_created_on>2018-07-24 02:33:20</sys_created_on>
+        <sys_id>6da053e84f2bd7005ad14b8d0210c794</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Store Operations.Daily Service Review</sys_name>
+        <sys_package display_value="TJX Store Operations" source="x_snc_floor_care_s">865aa2a6db971700fdd6f4eabf961908</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TJX Store Operations">865aa2a6db971700fdd6f4eabf961908</sys_scope>
+        <sys_update_name>sc_cat_item_category_6da053e84f2bd7005ad14b8d0210c794</sys_update_name>
+        <sys_updated_by>john.varghese</sys_updated_by>
+        <sys_updated_on>2018-07-24 02:33:20</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
